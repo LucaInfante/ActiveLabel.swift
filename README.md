@@ -1,4 +1,4 @@
-Forked for personal interventions and not "worthy" of pull request or original git was abandoned.
+# Forked for personal interventions and not "worthy" of pull request or original git was abandoned.
 
 # ActiveLabel.swift [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![Build Status](https://travis-ci.org/optonaut/ActiveLabel.swift.svg)](https://travis-ci.org/optonaut/ActiveLabel.swift)
 
